@@ -1,0 +1,19 @@
+# 凭证 —— 绝不提交
+_wiki_cookie.txt
+.wiki_cookie.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 运行产物 / 日志
+_pipeline_log.txt
+*.log
+_tmp_*.png
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,11 @@
+# 复制本文件为 _wiki_cookie.txt，然后把下面两行示例替换成你的真实 Cookie（单行）。
+#
+# 获取方式：
+#   1. 浏览器登录 wiki.biligame.com，打开任意 wiki 页面
+#   2. F12 → Network → 点任一请求 → 复制 Request Headers 里的完整 Cookie 值
+#   3. 粘贴到 _wiki_cookie.txt（覆盖本文件里的示例行）
+#
+# ⚠️ Cookie 等同于账号凭证，切勿提交到仓库（.gitignore 已排除 _wiki_cookie.txt）
+#
+# 示例（格式示意，请勿照抄）：
+# big_ganen_username=example; big_ganen_session=xxxxxxxxxxxxxxxx; ...其余键值...

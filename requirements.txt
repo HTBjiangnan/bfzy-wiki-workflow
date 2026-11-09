@@ -1,2 +1,5 @@
 requests>=2.31.0
 Pillow>=10.0.0
+lz4>=4.3.0
+UnityPy>=1.10.0
+numpy>=1.24.0

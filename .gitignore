@@ -11,6 +11,15 @@ __pycache__/
 _pipeline_log.txt
 *.log
 _tmp_*.png
+_wiki_pages.json
+
+# 解包产物（热点库动辄 GB 级，永不入库）
+raw/
+cfg/
+tex_out/
+tex_keys.json
+flairs.json
+*_manifest.json
 
 # 编辑器 / 系统
 .DS_Store
